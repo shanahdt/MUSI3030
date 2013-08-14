@@ -17,7 +17,7 @@ Studies in Nineteenth-Century Music (MUSI3030)
 :Place: Old Cabel Hall, B012
 :Class Number: 16336
 :Text: Richard Taruskin, *Music in the Nineteenth Century* (Oxford, 2009; paperback, ISBN 0195384830)
-:Course Web Page: http://danielshanahan.net/MUSI3030/
+:Course Web Page: http://shanahdt.github.io/MUSI3030/
 
 
 Course Objectives

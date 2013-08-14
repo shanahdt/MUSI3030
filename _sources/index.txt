@@ -3,20 +3,35 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MUSI3030 (Nineteenth-Century Music)!
+Welcome to class website for MUSI3030 (Nineteenth-Century Music)
 ====================================
 
-This will serve as the course website for the semester. If you have any issues, please feel free to email me.
+Here you can find the course syllabus, assignments, lesson plans, supplemental materials, and useful links. Please feel free to contact me if you have any questions or comments. 
+
+.. toctree::
+   :maxdepth: 1
+
+   syllabus
 
 .. toctree::
    :maxdepth: 2
-   syllabus	
 
+   lessons/index
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   exercises/index
+
+.. toctree::
+   :maxdepth: 2
+
+   assignments/index
+
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
 
