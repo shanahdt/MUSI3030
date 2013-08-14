@@ -7,8 +7,7 @@ Studies in Nineteenth-Century Music (MUSI3030)
 
 :Instructor: Dr. Daniel Shanahan
 :Office: Room 129 (basement), Kerchof Hall (Math Building; on C parking lot across from Clark Hall)
-:Telephone: # (614) 940-2560
-:E-mail: daniel.shanahan@gmail.com
+:E-mail: dts9h@virginia.edu
 :Office hours: by appointment
 :Course: MUSI3030
 :Credit: 3.0 credits
@@ -23,7 +22,7 @@ Studies in Nineteenth-Century Music (MUSI3030)
 Course Objectives
 =================
 
-This course is a survey of predominantly European music in the nineteenth century. We will cover a breadth of composers (Chopin, Liszt, Schumann, Berlioz, Wagner, and Verdi, among others), genres (solo instrumental, art song, choral, instrumental chamber music, concerto, symphony, opera), nations and regions (France, Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, folk music, orientalism, musical meaning, memorialization, etc.). Ability to read scores is required; Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
+This course surveys predominantly European music in the nineteenth century. We will cover a breadth of composers (Chopin, Liszt, Schumann, Berlioz, Wagner, and Verdi, among others), genres (solo instrumental, art song, choral, instrumental chamber music, concerto, symphony, opera), nations and regions (France, Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, folk music, orientalism, musical meaning, memorialization, etc.). Ability to read scores is required; Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
 
 For music majors: This course fulfills either the first historical requirement or an elective requirement.
 
@@ -40,32 +39,36 @@ Required Text
 
 Richard Taruskin, *Music in the Nineteenth Century* (Oxford, 2009; paperback, ISBN 0195384830)
 
+
 Suggested Reading
 ---------
 
-Piero Weiss and Richard Taruskin, Music in the Western World (Schirmer, 2007; paperback, 2nd edition, ISBN 053458599X)
+Carl Dahlhaus, *Nineteenth-Century Music* (University of California Press, 1991; paperback, ISBN 0520076443)
 
-Any supplemental readings will be available on Collab, along with musical scores. For the listening assignments, I will direct you either to a streaming database to which the UVa library subscribes, or good quality recordings on YouTube. If you have difficulty locating material for this course, please let me know immediately by email.
+Piero Weiss and Richard Taruskin, *Music in the Western World* (Schirmer, 2007; paperback, 2nd edition, ISBN 053458599X)
+
+
+Note that while I encourage building a library of such important musicological texts, these books can be quite expensive. I will work to put as much of these suggested readings on either this website or Collab, along with musical scores. 
+
+For the listening assignments, I will direct you either to a streaming database to which the UVa library subscribes, or good quality recordings on YouTube. Links will also be made available on the course website. 
+
+If you have difficulty locating material for this course, please let me know immediately by email.
 
 
 Website
 -------
 
 The course website can be found at
-http://memory.osu.edu/classes/python. This site is where all course
-materials and information are made available, including the lectures
-and exercises.
+http://shanahdt.github.io/MUSI3030/. This site contains lectures, course materials, supplementary readings, quizzes and assignments *for self assessment*, and helpful links. It is intended to complement, rather than replace, Collab.
 
 
 Assistance
 ----------
 
 I am available and interested in talking with you about the course,
-the course material, and strategies to enhance your learning. I'm
-usually available after class, can answer questions by e-mail
-(sederberg.1@osu.edu) or phone (292-1424), and will gladly set up an
+the course material, and strategies to enhance your learning. We can usually have brief discussions after class, and I am able to answer questions by e-mail (dts9h@virginia.edu) at any time. Additionally, I am happy to set up an
 appointment at a time that is mutually acceptable for more lengthy
-discussions.
+discussions. 
 
 
 ..
@@ -77,83 +80,12 @@ discussions.
 Lecture and Reading Schedule
 ============================
 
-+------+------------------------------------+---------------------------------+
-|Week  |Topic                               |Reading                          |
-+======+====================================+=================================+
-| 1    |Python language                     |                                 |
-|      |  * Fundamentals of programming     | Think Python Ch 1-6             |
-|      |                                    |                                 |
-|      |                                    | Python Scientific 1.2.1 - 1.2.4 |
-+------+------------------------------------+---------------------------------+
-| 2    |Python language                     |                                 |
-|      |  * Algorithms and data structures  | Think Python Ch 7-12            |
-|      |                                    |                                 |
-|      |                                    | Python Scientific 1.2.5         |
-+------+------------------------------------+---------------------------------+
-| 3    |Python language                     |                                 |
-|      |  * Handling data                   | Think Python Ch 13              | 
-|      |                                    |                                 |
-|      |  * Using libraries                 | Python Scientific 1.2.6 - 1.2.9 |
-+------+------------------------------------+---------------------------------+
-|4 & 5 |Experiment implementation           |                                 |
-|      |  * OpenSesame                      | Mathôt et al. (in press)        |
-|      |                                    |                                 |
-|      |  * PyEPL                           | OpenSesame Tutorial             |
-|      |                                    |                                 |
-|      |                                    | Geller et al. (2006)            |
-|      |                                    |                                 |
-|      |                                    | PyEPL Users' Manual             |
-+------+------------------------------------+---------------------------------+
-|6     |Data analysis and visualization     |                                 |
-|      |  * Numpy                           | Python Scientific 1.3 - 1.4     |
-|      |                                    |                                 |
-|      |                                    | Numpy User Guide                |
-|      |                                    |                                 |
-|      |                                    | Numpy Reference Guide           |
-+------+------------------------------------+---------------------------------+
-|7     |Data analysis and visualization     |                                 |
-|      |  * Matplotlib                      | Python Scientific 1.5           |
-|      |                                    |                                 |
-|      |                                    | Matplotlib User Guide           |
-+------+------------------------------------+---------------------------------+
-|8     |Data analysis and visualization     |                                 |
-|      |  * Scipy                           | Python Scientific 1.6           |
-|      |                                    |                                 |
-|      |                                    | Scipy Reference Guide           |
-+------+------------------------------------+---------------------------------+
-|9     |Data analysis and visualization     |                                 |
-|      |  * Advanced analyses               | TBD                             |
-+------+------------------------------------+---------------------------------+
-|10    |Survey of specialized libraries     | None                            |
-|      |  * From GPUs to Brains             |                                 |
-+------+------------------------------------+---------------------------------+
-
-
-
-Student Evaluation
-==================
-
-Students will be evaluated on the basis of:
-
-- Lesson exercises / class participation (30 pts)
-- List generation project (20 pts)
-- Experiment project (20 pts)
-- Data Analysis project (30 pts)
-
-for a total of 100 points.
-
+Coming soon.
 
 
 Students with disabilities
 ==========================
 
-This syllabus is available in alternative formats upon request. In
-addition, if you may need an accommodation based on the impact of a
-disability, you should contact the instructor immediately.  Students
-with special needs should contact the Office of Disability Services
-(ODS) at 292-3307 for certification if they have not already done
-so. Upon such certification, the ODS and the instructor will make
-every effort to accommodate special needs. However, to ensure that
-evaluation of student performance in the course is conducted in a
-manner that is fair to all students, special accommodations will not
-be granted in the absence of ODS certification.
+This syllabus is available in alternative formats (PDF, HTML, epub) upon request. In addition, if you may need an accommodation based on the impact of a disability, you should contact me immediately.  
+Students with special needs can contact UVa's Office of Disability Support Services (ph: 276-328-0265, email: wew3x@uvawise.edu) with any questions.
+I will make every effort to accommodate special needs. 
