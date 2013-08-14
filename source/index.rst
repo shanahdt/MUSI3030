@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MUSI3030's documentation!
+Welcome to MUSI3030 (Nineteenth-Century Music)!
 ====================================
 
-Contents:
+This will serve as the course website for the semester. If you have any issues, please feel free to email me.
 
 .. toctree::
    :maxdepth: 2
-
+   syllabus	
 
 
 Indices and tables
