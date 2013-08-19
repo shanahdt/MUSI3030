@@ -48,22 +48,20 @@ Carl Dahlhaus, *Nineteenth-Century Music* (University of California Press, 1991;
 Piero Weiss and Richard Taruskin, *Music in the Western World* (Schirmer, 2007; paperback, 2nd edition, ISBN 053458599X)
 
 
-Note that while I encourage building a library of such important musicological texts, these books can be quite expensive. I will work to put as much of these suggested readings on either this website or Collab, along with musical scores. 
+Note that while I encourage building a library of such important musicological texts, these books can be quite expensive. I will work to put as much of these suggested readings on either this website or Collab, along with musical scores. For the listening assignments, I will direct you either to a streaming database to which the UVa library subscribes, or good quality recordings on YouTube. Links will also be made available on the course website. 
 
-For the listening assignments, I will direct you either to a streaming database to which the UVa library subscribes, or good quality recordings on YouTube. Links will also be made available on the course website. 
-
-If you have difficulty locating material for this course, please let me know immediately by email.
+**NOTE:** If you have difficulty locating material for this course, please let me know immediately by email.
 
 
 Website
--------
+=======
 
 The course website can be found at
-http://shanahdt.github.io/MUSI3030/. This site contains lectures, course materials, supplementary readings, quizzes and assignments *for self assessment*, and helpful links. It is intended to complement, rather than replace, Collab.
+http://shanahdt.github.io/MUSI3030/. This site contains lectures, course materials, supplementary readings, quizzes and assignments **for self assessment**, and helpful links. It is intended to complement, rather than replace, Collab.
 
 
 Assistance
-----------
+========
 
 I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. We can usually have brief discussions after class, and I am able to answer questions by e-mail (dts9h@virginia.edu) at any time. Additionally, I am happy to set up an
