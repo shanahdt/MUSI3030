@@ -20,7 +20,7 @@ Studies in Nineteenth Century Music (MUSI3030)
 
 
 Course Objectives
-=================
+===================
 
 This course surveys predominantly European music in the nineteenth century. We will cover a breadth of composers (Chopin, Liszt, Schumann, Berlioz, Wagner, and Verdi, among others), genres (solo instrumental, art song, choral, instrumental chamber music, concerto, symphony, opera), nations and regions (France, Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, folk music, orientalism, musical meaning, memorialization, etc.). Ability to read scores is required; Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
 
@@ -30,18 +30,18 @@ Enrollment deadlines: The last day in the College to add a course is Wednesday, 
 
 
 Resources
-=========
+===========
 
 The following texts are required and are available either at the UVa Bookstore or through online sellers.
 
 Required Text
----------
+----------------
 
 Richard Taruskin, *Music in the Nineteenth Century* (Oxford, 2009; paperback, ISBN 0195384830)
 
 
 Suggested Reading
----------
+-------------------
 
 Carl Dahlhaus, *Nineteenth-Century Music* (University of California Press, 1991; paperback, ISBN 0520076443)
 
@@ -54,14 +54,14 @@ Note that while I encourage building a library of such important musicological t
 
 
 Website
-=======
+==========
 
 The course website can be found at
 http://shanahdt.github.io/MUSI3030/. This site contains lectures, course materials, supplementary readings, quizzes and assignments **for self assessment**, and helpful links. It is intended to complement, rather than replace, Collab.
 
 
 Assistance
-========
+============
 
 I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. We can usually have brief discussions after class, and I am able to answer questions by e-mail (dts9h@virginia.edu) at any time. Additionally, I am happy to set up an
@@ -70,24 +70,24 @@ discussions.
 
 
 Grading and Class Activities
-=============================
+===============================
 
 +---------------------------------------+-------------------+
-| Attendance and Participation			|	20%				|			
+| Attendance and Participation		|	20%	    |			
 +---------------------------------------+-------------------+
-| Weekly Question Sheets				|	10%				|
+| Weekly Question Sheets		|	10%	    |
 +---------------------------------------+-------------------+
-| Biweekly Listening Comparisons		|	10%				|
+| Biweekly Listening Comparisons	|	10%	    |
 +---------------------------------------+-------------------+
-| Quiz 1								|	15%				|
+| Quiz 1				|	15%	    |
 +---------------------------------------+-------------------+
-| Quiz 2								| 	15%				|
+| Quiz 2				| 	15%	    |
 +---------------------------------------+-------------------+
-| In-Class Presentation					|	5%				|
+| In-Class Presentation			|	5%	    |
 +---------------------------------------+-------------------+
-| Final Paper Outline and Bibliography	|	5%				|
+| Final Paper Outline and Bibliography	|	5%	    |
 +---------------------------------------+-------------------+
-| Final Paper							|	5%				|
+| Final Paper				|	5%	    |
 +---------------------------------------+-------------------+
 
 Attendance and Participation
@@ -113,7 +113,7 @@ Quiz 1
 Placed at about a third of the way through the course, Quiz 1 will comprise mainly short-answer questions selected from the Question Sheets and listening identifications from the assigned listenings. This Quiz will be administered during class.
 
 Quiz 2
--------
+----------
 This Quiz will have the same design as Quiz 1, but it will occur at about two thirds of the way through the course.
 
 In-Class Presentation
@@ -138,13 +138,13 @@ Since we will be discussing the answers immediately in class, Question Sheets an
 
 
 Lecture and Reading Schedule
-============================
+===============================
 
 Coming soon.
 
 
 Students with disabilities
-==========================
+=============================
 
 This syllabus is available in alternative formats (PDF, HTML, epub) upon request. In addition, if you may need an accommodation based on the impact of a disability, you should contact me immediately.  
 Students with special needs can contact UVa's Office of Disability Support Services (ph: 276-328-0265, email: wew3x@uvawise.edu) with any questions.
