@@ -140,7 +140,31 @@ Since we will be discussing the answers immediately in class, Question Sheets an
 Lecture and Reading Schedule
 ===============================
 
-Coming soon.
+Unit I
+--------
+
+
++-------+-----------------------+-----------------------------------------------------------------------+
+|Week   | Topic                 | Activities and Assignments Due                                        |
++=======+=======================+=======================================================================+
+|1.T    | Introduction          |                                                                       |
+|(8/27) |                       |                                                                       |       
++-------+-----------------------+-----------------------------------------------------------------------+
+|1.R    | Beethoven             | Sign up for Listening Comparison Presentations.                       |
+|(8/29) |                       |                                                                       |
+|       |                       | **Due**:Read Taruskin, "The First Romantics" on Collab.               |
+|       |                       | Listen to Beethoven, Symphony No.3 in E-flat major ("Eroica")         |
+|       |                       | Answer Question Sheet No. 1                                           |
++-------+-----------------------+-----------------------------------------------------------------------+
+|2.T    | Beethoven, *continued*| Read Hoffman, "Beethoven's Instrumental Music" (on Collab).           |                                    
+|       |                       |                                                                       |        
++-------+-----------------------+-----------------------------------------------------------------------+
+
+
+
+
+
+
 
 
 Students with disabilities
