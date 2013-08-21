@@ -145,7 +145,7 @@ Unit I
 
 
 +-------+-----------------------+-----------------------------------------------------------------------+
-|Week   | Topic                 | Activities and Assignments Due                                        |
+|Week   | Topic                 | Assignments and Readings Due                                          |
 +=======+=======================+=======================================================================+
 |1.T    | Introduction          |                                                                       |
 |(8/27) |                       |                                                                       |       
@@ -156,15 +156,189 @@ Unit I
 |       |                       | Listen to Beethoven, Symphony No.3 in E-flat major ("Eroica")         |
 |       |                       | Answer Question Sheet No. 1                                           |
 +-------+-----------------------+-----------------------------------------------------------------------+
-|2.T    | Beethoven, *continued*| Read Hoffman, "Beethoven's Instrumental Music" (on Collab).           |                                    
+|2.T    | Beethoven,            | Read Hoffman, "Beethoven's Instrumental Music" (on Collab).           |                                    
+|(9/3)  | *continued*           | **Due**: Listen comparatively to Beethoven's op.13 ("Pathetique") and |        
+|       |                       | op.111. Feel free to compare one entire sonata to the other, or       |
+|       |                       | corresponding movements to one another.                               |
+|       |                       |                                                                       |
+|       |                       | **Group A** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|2.R    | Rossini               | Read Taruskin, pp.1-36                                                |
+|(9/5)  |                       | Listen to the Overture and Act I from Beethoven's *Fidelio*           |
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet No.2                                            |
++-------+-----------------------+-----------------------------------------------------------------------+
+|3.T    | Rossini,              | Listen comparatively to the Overture and Act I from Mozart's *Le      |
+|(9/10) | *continued*           | nozze di Figaro* and the Overture and Act I from Rossini's *Il        | 
+|       |                       | barbiere di Siviglia*                                                 |
+|       |                       |                                                                       |        
+|       |                       | **Group B** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|3.R    | Schubert              | Read Taruskin, pp.61-87 and pp.135-155                                |
+|(9/12) |                       |                                                                       |
+|       |                       | Listen to three pieces by Franz Schubert:                             |
+|       |                       |                                                                       |
+|       |                       | - "Gretchen am Spinnrade" (song)                                      |
+|       |                       | - "Erlkonig"(song)                                                    |
+|       |                       | - *String Quartet in C major*                                         |
 |       |                       |                                                                       |        
 +-------+-----------------------+-----------------------------------------------------------------------+
+|4.T    | Schubert,             | Listen comparatively to music settings of Goethe's "Erlkonig"         |
+|(9/17) | *continued*           | by Schubert, Zelter, and Reichardt.                                   |
+|       |                       |                                                                       |
+|       |                       | Listen to Schubert's *Die schone Mullerin* (song cycle)               |
+|       |                       | **Group A** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|4.R    | Grand and Gothic      | Read Taruskin, pp.187-205 and 219-230                                 |
+|       | Opera                 |                                                                       |
+|(9/19) |                       | Listen to:                                                            |
+|       |                       |                                                                       |
+|       |                       | -Weber, Overture to *Der Freischutz*                                  |
+|       |                       | -Meyerbeer, Act IV, *Les Huguenots*                                   |
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 4                                               |
++-------+-----------------------+-----------------------------------------------------------------------+
+|5.T    | Grand and Gothic      | Read Taruskin, pp.179-186                                             |              
+|(9/24) | Opera, *continued*    | Listen comparatively to:                                              |        
+|       |                       |                                                                       |
+|       |                       | -Mendelssohn, Overture to *A Midsummer Night's Dream*                 |
+|       |                       | -Weber, Overture to *Oberon*                                          |
+|       |                       |                                                                       |
+|       |                       | **Group B** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|5.R    | Virtuosity            | Quiz 1                                                                | 
+|(9/26) |                       |                                                                       |
++-------+-----------------------+-----------------------------------------------------------------------+
+|6.T    | Virtuosity,           | Read Weiss/Taruskin, pp.289-295 and pp.308-313 (on Collab)            |
+|(10/1) | *continued*           |                                                                       |
+|       |                       | Listen comparatively to three versions of Liszt's study in            |
+|       |                       | C minor, first composed in 1826 (from his *Etude en 12* and           |
+|       |                       | revised in both 1837 (*12 grandes etudes*) and 1851 (*Etudes          |
+|       |                       | d'execution transcendante*                                            |
+|       |                       |                                                                       |
+|       |                       | Listen to a selection of studies by Paganini (for violin) and Liszt   |
+|       |                       | (for piano). Selections are on Collab.                                |
+|       |                       |                                                                       |
+|       |                       | **Group A** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|6.R    | Schumann and Berlioz  | Read Taruskin, 289-341                                                |                     
+|(10/3) |                       | Listen to:                                                            |
+|       |                       |                                                                       |
+|       |                       | - Schumann, *Papillons*                                               |
+|       |                       | - Berlioz, *Symphonie fantastique*                                    |
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 5                                               |
++-------+-----------------------+-----------------------------------------------------------------------+
+|7.T    | Schumann and Berlioz, | Read Weiss/Taruskin, 296-300 and 303-308 (on Collab)                  |
+|(10/8) | *continued*           | Listen to:                                                            |        
+|       |                       |                                                                       |        
+|       |                       | - Berlioz, *Harold en Italie* and compare the musical devices used    |
+|       |                       |   and Lord Byron's text setting (available on Collab).                |
+|       |                       |                                                                       |
+|       |                       | **Group B** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|7.R    | Chopin, Gottschalk,   | Read Taruskin, pp.343-386                                             |      
+|(10/10)| and Orientalism       | Listen to:                                                            |        
+|       |                       |                                                                       |
+|       |                       | - Chopin, *Preludes*                                                  |
+|       |                       | - Chopin, *Four Mazurkas* (op.17)                                     |
+|       |                       | - Chopin, *Ballade no.1 in G minor*                                   |
+|       |                       | - Gottschalk, Bamboula                                                |        
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 6                                               |
++-------+-----------------------+-----------------------------------------------------------------------+
+|8.T    | Reading Day           |                                                                       |
+|(10/15)|                       |                                                                       |
++-------+-----------------------+-----------------------------------------------------------------------+
+|8.R    | Chopin, Gottschalk,   | Read Taruskin, pp.386-410                                             |
+|(10/17)| and Orientalism,      | Listen to:                                                            |
+|       | *continued*           |                                                                       |
+|       |                       | - Borodin, Polovtsian Dances from *Prince Igor*                       |
+|       |                       | - Cui, *The Mandarin's Son*                                           |
+|       |                       |                                                                       |     
+|       |                       | **Group A** Listening Comparison Due                                  |        
++-------+-----------------------+-----------------------------------------------------------------------+
+|9.T    | Liszt                 | Read Taruskin, pp.411-428                                             |
+|(10/22)|                       | Listen to:                                                            |
+|       |                       |                                                                       |
+|       |                       | - Liszt, *Les Preludes*                                               |
+|       |                       | - Liszt, *A Faust Symphony*                                           |
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 7                                               |        
++-------+-----------------------+-----------------------------------------------------------------------+
+|9.R    | Liszt, *continued*    | Read Taruskin, pp.438-442                                             |
+|(10/24)|                       | Read Weiss/Taruskin, pp.324-329 (on Collab)                           |        
+|       |                       |                                                                       |
+|       |                       | Listen comparatively to any two of Liszt's 19 Hungarian Rhapsodies    |                     
+|       |                       |                                                                       |
+|       |                       | **Group B** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|10.T   | Dvorak and Smetana    | Read Taruskin, 443-463                                                |
+|(10/29)|                       | Listen to:                                                            |
+|       |                       |                                                                       |
+|       |                       | - Smetana, *Libuse*, Act 1                                            |
+|       |                       | - Dvorak, *Rusalka*, Act 1                                            | 
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 7                                               |        
++-------+-----------------------+-----------------------------------------------------------------------+
+|10.R   | Dvorak and Smetana,   | Halloween (Topical Costumes Encouraged)                               |
+|(10/31)| *continued*           |                                                                       |
+|       |                       | Listen comparatively to:                                              |
+|       |                       |                                                                       |
+|       |                       | - Smetana, Vltava, from *M\'a Vlast*                                  | 
+|       |                       | - Smetana, Blanik, from *M\'a Vlast*                                  |        
+|       |                       | - Dvorak, Allegro ma non Troppo, *String Quartet no.12* (American)    |
+|       |                       | - Dvorak, Lento, *String Quartet no.12* (American)                    |        
+|       |                       |                                                                       |
+|       |                       | **Group A** Listening Comparison Due                                  |
++-------+-----------------------+-----------------------------------------------------------------------+
+|11.T   | Wagner I              | Read Taruskin, pp.479-520                                             |        
+|(11/5) |                       |                                                                       |
+|       |                       | Listen to the instrumental preludes to three Wagner Operas:           |
+|       |                       |                                                                       |
+|       |                       | - *The Flying Dutchman*                                               |
+|       |                       | - *Tannhauser*                                                        |
+|       |                       | - *Tristan und Isolde*                                                |
+|       |                       |                                                                       |
+|       |                       | Answer Question Sheet 8                                               |
++-------+-----------------------+-----------------------------------------------------------------------+
+|11.R   | Wagner I, *continued* | Read Taruskin, pp.528-562                                             |
+|(11/7) |                       |                                                                       |
+|       |                       | Listen comparatively to:                                              |
+|       |                       |                                                                       |
+|       |                       | - Prelude to *Lohengrin*                                              |
+|       |                       | - Prelude to *Parsifal*                                               |
+|       |                       |                                                                       |
+|       |                       | **Group B** Listening Comparison Due                                  | 
++-------+-----------------------+-----------------------------------------------------------------------+
+|12.T   | Wagner II             | Quiz 2                                                                |
+|(11/12)|                       |                                                                       |
++-------+-----------------------+-----------------------------------------------------------------------+
+|12.R   | Wagner II, *continued*| Read Wagner, "The Artwork of the Future" (on Collab)                  |
+|(11/14)|                       |                                                                       |
+|       |                       | Listen comparatively to two love duets:                               |        
+|       |                       |                                                                       |      
+|       |                       | - Wagner, "O sink hernieder, Nacht der Liebe," ACT II, *Tristan*      |          
+|       |                       | - "Gia nella notte densa," from Act I, *Otello*                       |
+|       |                       |                                                                       |
+|       |                       | (How does each composer engage both singes and orchestra to represent |
+|       |                       | nighttime ecstasy?)                                                   |
++-------+-----------------------+-----------------------------------------------------------------------+
+|13.T   | Italian Opera         |                                                                       |
+|(11/19)|
 
 
 
-
-
-
+Honor
+=======
+I trust every student in this course to comply with all of the provisions of the UVA honor system. 
+I will ask that you pledge and sign the two examinations and three papers.  
+Your signature on the exams affirms you have not received nor given aid while 
+taking your exams, nor accessed any notes, study outlines, old exams, answer keys, 
+or books  while taking an exam and that you have not obtained any answers from another 
+student's exam.  Your signature on the papers affirms that they represent your original 
+work, and that any sources you have quoted, paraphrased, or used extensively in preparing 
+the paper have been properly credited in the footnotes or bibliography.
 
 
 Students with disabilities
