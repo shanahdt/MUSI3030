@@ -22,17 +22,18 @@ Studies in Nineteenth Century Music (MUSI3030)
 Course Objectives
 ===================
 
-This course surveys predominantly European music in the nineteenth century. 
-We will cover a breadth of composers (Chopin, Liszt, Schumann, Berlioz, 
+This course surveys European music in the nineteenth century. 
+We will cover a wide array of composers (Chopin, Liszt, Schumann, Berlioz, 
 Wagner, and Verdi, among others), genres (solo instrumental, art song, choral, 
-instrumental chamber music, concerto, symphony, opera), nations and regions (France, 
+instrumental chamber music, symphony, opera), nations and regions (France, 
 Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, 
-folk music, orientalism, musical meaning, memorialization, etc.). 
-Ability to read scores is required; Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
-
+folk music, orientalism, musical meaning, etc.). 
+|
+We will be reading scores throughout the semester. Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
+|
 For music majors: This course fulfills either the 
 first historical requirement or an elective requirement.
-
+|
 Enrollment deadlines: The last day in the College to add a course is Tuesday, 
 September 10th; the last day to drop a course is Wednesday, September 11th; 
 the last day to withdraw from a course is Tuesday, October 22nd.
