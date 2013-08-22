@@ -5,7 +5,7 @@ Syllabus
 Studies in Nineteenth Century Music (MUSI3030)
 -----------------------------------------------------
 
-:Instructor: Dr. Daniel Shanahan
+:Instructor: Dr. Danel Shanahan
 :Office: Room 129 (basement), Kerchof Hall (Math Building; on C parking lot across from Clark Hall)
 :E-mail: dts9h@virginia.edu
 :Office hours: MW 2-3pm; R 2:30-4:30 and By Appointment
