@@ -23,13 +23,12 @@ Course Objectives
 ===================
 
 This course surveys European music in the nineteenth century. 
-We will cover a wide array of composers (Chopin, Liszt, Schumann, Berlioz, 
-Wagner, and Verdi, among others), genres (solo instrumental, art song, choral, 
+We will cover a wide array of composers (Beethoven, Wagner, Liszt, Schumann, Berlioz, and Verdi, among others), genres (solo instrumental, art song,
 instrumental chamber music, symphony, opera), nations and regions (France, 
 Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, 
 folk music, orientalism, musical meaning, etc.). 
 |
-We will be reading scores throughout the semester. Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
+As we will be reading scores throughout the semester, the ability to read scores is essential. Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
 |
 For music majors: This course fulfills either the 
 first historical requirement or an elective requirement.
@@ -59,8 +58,8 @@ Piero Weiss and Richard Taruskin, *Music in the Western World* (Schirmer, 2007; 
 
 
 Note that while I encourage building a library of such important 
-musicological texts, these books can be quite expensive. I will work 
-to put as much of these suggested readings on either this website or 
+musicological texts, I will work 
+to put as much of these suggested readings on either the course website or 
 Collab, along with musical scores. For the listening assignments, I will 
 direct you either to a streaming database to which the UVa library subscribes, 
 or good quality recordings on YouTube. Links will also be 
@@ -86,7 +85,7 @@ I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. 
 We can usually have brief discussions after class, and I am able 
 to answer questions by e-mail (dts9h@virginia.edu) at any time. 
-Additionally, I am happy to set up an appointment at a time that 
+Additionally, I am always happy to meet during an office hour. If this does not work for you, I am happy to set up an appointment at a time that 
 is mutually acceptable for more lengthy discussions. 
 
 
@@ -124,9 +123,9 @@ To earn maximum points for class discussion, try to contribute regularly and tho
 Weekly Question Sheets
 ========================
 
-There will be questions on the readings due every Tuesday. 
+There will be questions on the readings due **every Tuesday**. 
 Answer these questions as succinctly as possible--usually one or 
-two words per answer will suffice. Please submit these in **hard copy, pledged** 
+two words per answer will suffice. Please submit these in **hard copy, pledged.** 
 (See *Honor* section below).
 
 Biweekly Listening Comparisons
@@ -169,17 +168,15 @@ We will be assigning days to presenters on the second day of class
 (Thursday, August 29th), so if you have a preference for either 
 a partner or a particular day or both, please come to class 
 with your preferences in mind. I cannot guarantee that you 
-will get your first choice, but you should feel assured that 
-all the listening assignments are equally good. Please 
-include audio-visual elements in your presentation: listening 
+will get your first choice, but you should feel assured that I've tried to make all listening assignments equally interesting. 
+Please include audio-visual elements in your presentation: listening 
 excerpts, handouts, slideshow, etc. When listening to 
 presentations by other students, be respectful 
 and attentive, take notes, and be prepared to ask 
-follow-up questions. I am expecting that those who belong 
-to the same Comparison Group will be especially lively 
-contributors to discussion, since they'll just have 
+follow-up questions. The half of the class that belongs 
+to the same Comparison Group is likely to be especially lively 
+contributors to the discussion, since they'll just have 
 completed the same exercise.
-
 
 Final Paper
 ============= 
@@ -199,12 +196,9 @@ during our individual meetings in early November.
 
 Recommendation for Listening 
 ==============================
-Try to listen more than once to a piece. Do not let yourself be 
-distracted while doing so. If you listen on a computer, try to 
-use good quality headphones, rather than using flimsy ear 
-buds or just letting the music play through your computer 
-speakers. I also recommend always following along with 
-either a score or a libretto (when applicable).
+
+As students of music, the art of *active listening* is one of the most important skills one can acquire. It is important to listen to each piece multiple times. Try not to become distracted, and listen in a quiet environment. If you wear headphones, try to use ones that properly convey the full range of sounds  (earbuds are horrible at this). If you use speakers, make sure you're listening on something better than the onboard speakers on a computer (even ~40-$50 computer speakers can provide a decent sound). Always follow along with a score or libretto (when applicable). During your first listening, see which points sound surprising to you. Does the music convey any particular emotion? Upon further listening, try to ask yourself which musical techniques the composer might be employing to convey these emotions, generate these expectations, and provide a fulfilling listening experience, in general. 
+
 
 Policy on Late Assignments
 ============================ 
@@ -214,15 +208,11 @@ class, Question Sheets and Biweekly Comparisons will not
 be accepted for a grade if they are submitted after the 
 beginning of the class in which they're due. For the final 
 paper and its preparation (the outline and bibliography), 
-the grade will be lowered one increment (for example, B+ to B) 
+the grade will be lowered five points (for example, 93 to 88) 
 for every day they are late.
-
 
 Lecture and Reading Schedule
 ===============================
-
-Unit I
---------
 
 
 +-------+-----------------------+-----------------------------------------------------------------------+
