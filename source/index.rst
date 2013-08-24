@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to class website for MUSI3030 (Nineteenth-Century Music)
-====================================
+Welcome to the class website for MUSI3030 (Studies in Nineteenth-Century Music)
+===================================================================================
 
 Here you can find the course syllabus, assignments, lesson plans, supplemental materials, and useful links. Please feel free to contact me if you have any questions or comments. 
 
