@@ -11,7 +11,7 @@ Below is an example of the scoring rubric for the 500 word listening comparisons
 +===============+===============================+===============================+===============================+===============================+
 | Engagement    | Actively engages with the     | Engages with the music, but   | Discusses the music           | Description is vague,         |                                     
 | with the      | music; attempts to understand | the focus is                  | adequately, but could focus   | unclear that there was more   |
-| music** (50)  | the basic underpinnings of    | disproportionately on one     | more on this area; focuses on | than a passive engagement     |
+| music   (50)  | the basic underpinnings of    | disproportionately on one     | more on this area; focuses on | than a passive engagement     |
 |               | the pieces; examines musical  | piece. Does a good job at     | superficial musical elements; | with the music. The comparison|
 |               | relationships between the     | examining the similarities \& | comparison needs to discuss   | between the works fails to go |
 |               | pieces in a sophisticated     | differences in the approaches | the relationship (or lack     | beyond basic historical       |
