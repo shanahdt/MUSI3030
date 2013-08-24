@@ -34,8 +34,8 @@ read scores is essential. Theory 1 (MUSI 3310) strongly recommended as a prerequ
 
 For music majors: This course fulfills either the 
 first historical requirement or an elective requirement.
-|
-|
+
+
 Enrollment deadlines: The last day in the College to add a course is Tuesday, 
 September 10th; the last day to drop a course is Wednesday, September 11th; 
 the last day to withdraw from a course is Tuesday, October 22nd.
