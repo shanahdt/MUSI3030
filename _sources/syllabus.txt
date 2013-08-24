@@ -237,6 +237,7 @@ Lecture and Reading Schedule
 |(8/29) |                       |                                                                       |
 |       |                       | **Due**:Read Taruskin, "The First Romantics" on Collab.               |
 |       |                       | Listen to Beethoven, Symphony No.3 in E-flat major ("Eroica")         |
+|       |                       |                                                                       |
 |       |                       | Answer Question Sheet No. 1                                           |
 +-------+-----------------------+-----------------------------------------------------------------------+
 |2.T    | Beethoven,            | Read Hoffman, "Beethoven's Instrumental Music" (on Collab).           |                                    
