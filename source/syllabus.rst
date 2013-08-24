@@ -284,8 +284,8 @@ Lecture and Reading Schedule
 |5.T    | Grand and Gothic      | Read Taruskin, pp.179-186                                             |              
 |(9/24) | Opera, *continued*    | Listen comparatively to:                                              |        
 |       |                       |                                                                       |
-|       |                       | - Mendelssohn, Overture to *A Midsummer Night's Dream*                 |
-|       |                       | - Weber, Overture to *Oberon*                                          |
+|       |                       | - Mendelssohn, Overture to *A Midsummer Night's Dream*                |
+|       |                       | - Weber, Overture to *Oberon*                                         |
 |       |                       |                                                                       |
 |       |                       | **Group B** Listening Comparison Due                                  |
 +-------+-----------------------+-----------------------------------------------------------------------+
