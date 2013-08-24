@@ -94,7 +94,7 @@ is mutually acceptable for more lengthy discussions.
 
 Grading and Class Activities
 ===============================
-
+|
 +---------------------------------------+-------------------+
 | Attendance and Participation		|	20%	    |			
 +---------------------------------------+-------------------+
