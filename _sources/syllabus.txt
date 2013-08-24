@@ -23,12 +23,14 @@ Course Objectives
 ===================
 
 This course surveys European music in the nineteenth century. 
-We will cover a wide array of composers (Beethoven, Wagner, Liszt, Schumann, Berlioz, and Verdi, among others), genres (solo instrumental, art song,
+We will cover a wide array of composers (Beethoven, Wagner, Liszt, 
+Schumann, Berlioz, and Verdi, among others), genres (solo instrumental, art song,
 instrumental chamber music, symphony, opera), nations and regions (France, 
 Germany and Austria, Italy, Russia, North America), and topics (salon culture, virtuosity, 
 folk music, orientalism, musical meaning, etc.). 
 |
-As we will be reading scores throughout the semester, the ability to read scores is essential. Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
+As we will be reading scores throughout the semester, the ability to 
+read scores is essential. Theory 1 (MUSI 3310) strongly recommended as a prerequisite. 
 |
 For music majors: This course fulfills either the 
 first historical requirement or an elective requirement.
@@ -85,7 +87,8 @@ I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. 
 We can usually have brief discussions after class, and I am able 
 to answer questions by e-mail (dts9h@virginia.edu) at any time. 
-Additionally, I am always happy to meet during an office hour. If this does not work for you, I am happy to set up an appointment at a time that 
+Additionally, I am always happy to meet during an office hour. 
+If this does not work for you, I am happy to set up an appointment at a time that 
 is mutually acceptable for more lengthy discussions. 
 
 
@@ -93,21 +96,21 @@ Grading and Class Activities
 ===============================
 
 +---------------------------------------+-------------------+
-| Attendance and Participation		|	20%	    |			
+| Attendance and Participation			|	20%	    		|			
 +---------------------------------------+-------------------+
-| Weekly Question Sheets		|	10%	    |
+| Weekly Question Sheets				|	10%	    		|
 +---------------------------------------+-------------------+
-| Biweekly Listening Comparisons	|	10%	    |
+| Biweekly Listening Comparisons		|	10%	    		|
 +---------------------------------------+-------------------+
-| Quiz 1				|	15%	    |
+| Quiz 1								|	15%	    		|
 +---------------------------------------+-------------------+
-| Quiz 2				| 	15%	    |
+| Quiz 2								| 	15%	    		|
 +---------------------------------------+-------------------+
-| In-Class Presentation			|	5%	    |
+| In-Class Presentation					|	5%	    		|
 +---------------------------------------+-------------------+
-| Final Paper Outline and Bibliography	|	5%	    |
+| Final Paper Outline and Bibliography	|	5%	    		|
 +---------------------------------------+-------------------+
-| Final Paper				|	5%	    |
+| Final Paper							|	5%	    		|
 +---------------------------------------+-------------------+
 
 Attendance and Participation
@@ -168,7 +171,8 @@ We will be assigning days to presenters on the second day of class
 (Thursday, August 29th), so if you have a preference for either 
 a partner or a particular day or both, please come to class 
 with your preferences in mind. I cannot guarantee that you 
-will get your first choice, but you should feel assured that I've tried to make all listening assignments equally interesting. 
+will get your first choice, but you should feel assured that 
+I've tried to make all listening assignments equally interesting. 
 Please include audio-visual elements in your presentation: listening 
 excerpts, handouts, slideshow, etc. When listening to 
 presentations by other students, be respectful 
@@ -197,7 +201,14 @@ during our individual meetings in early November.
 Recommendation for Listening 
 ==============================
 
-As students of music, the art of *active listening* is one of the most important skills one can acquire. It is important to listen to each piece multiple times. Try not to become distracted, and listen in a quiet environment. If you wear headphones, try to use ones that properly convey the full range of sounds  (earbuds are horrible at this). If you use speakers, make sure you're listening on something better than the onboard speakers on a computer (even ~40-$50 computer speakers can provide a decent sound). Always follow along with a score or libretto (when applicable). During your first listening, see which points sound surprising to you. Does the music convey any particular emotion? Upon further listening, try to ask yourself which musical techniques the composer might be employing to convey these emotions, generate these expectations, and provide a fulfilling listening experience, in general. 
+The ability to listen to a piece of music *actively* is one of the most 
+important skills one can acquire. It is important to listen to each piece multiple times. 
+Try not to become distracted, and listen in a quiet environment. 
+If you wear headphones, try to use ones that properly convey the full range 
+of sounds  (earbuds are horrible at this). If you use speakers, 
+make sure you're listening on something better than the built-in speakers 
+on a computer (even ~40-$50 computer speakers can provide a decent sound). 
+Always follow along with a score or libretto (when applicable). 
 
 
 Policy on Late Assignments
