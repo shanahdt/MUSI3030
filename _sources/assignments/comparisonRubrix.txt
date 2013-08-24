@@ -11,23 +11,23 @@ Scoring Rubric for Listening Comparisons
 |               | the pieces; examines musical  | piece. Does a good job at     | superficial musical elements; | with the music. The comparison|
 |               | relationships between the     | examining the similarities \& | comparison needs to discuss   | between the works fails to go |
 |               | pieces in a sophisticated     | differences in the approaches | the relationship (or lack     | beyond basic historical       |
-|               | manner.                       | of each piece.                | thereof) between the pieces   | facts.                        |
-|               |                    (45-50)    |                    (35-45)    | in more depth.        (20-35) |                        (0-20) |
+|               | manner. (45-50)               | of each piece. (35-45)        | thereof) between the pieces   | facts. (0-20)                 |
+|               |                               |                               | in more depth. (20-35)        |                               |
 +---------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+               
 |**Historical   | Shows a sophisticated         | Shows a decent understanding  | Shows a slightly uneven       | Does not provide context for  | 
 | Context** (30)| understanding of the relevant | of the relevant culture,      | understanding of the relevant | the music; it his clear       |
 |               | culture, genre, and topic.    | genre, and topic, but it      | culture, genre, and topic,    | that there exist many         |
-|               |                               | could be improved.            | and it is clear that there    | misunderstandings about the   |                             
-|               |                               |                               | are a few misconceptions.     | topic.                        |
-|               |                    (25-30)    |                   (20-25)     |                   (10-20)     |                       (0-10)  |
+|               | (25-30)                       | could be improved. (20-25)    | and it is clear that there    | misunderstandings about the   |                             
+|               |                               |                               | are a few misconceptions.     | topic. (0-10)                 |
+|               |                               |                               | (10-20)                       |                               |
 +---------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+               
 |**Writing**(20)| Coherently organized          | Paper is well organized       | Only a few spelling or        | Contains a number of spelling |
 |               | and has a natural flow and    | overall, and the argument is  | grammatical errors, but the   | and grammatical errors;       |
 |               | logic. There are no           | easy to follow. There are     | logic is difficult to follow. | the argument needs work;      |
 |               | grammatical or spelling       | only a few minor spelling     | The overall argument could be | the logic is very difficult   |
-|               | mistakes, and the writing is  | or grammatical errors; writing| improved.                     | to follow.                    |
-|               | clear and persuasive.         | is clear but the structure    |                               |                               |
+|               | mistakes, and the writing is  | or grammatical errors; writing| improved. (5-10)              | to follow. (0-5)              |
+|               | clear and persuasive. (15-20) | is clear but the structure    |                               |                               |
 |               |                               | and logic could use a bit of  |                               |                               |
-|               |                               | improvement.                  |                               |                               |
-|               |                    (15-20)    |                   (10-15)     |                    (5-10)     |                  (0-5)        |
+|               |                               | improvement.(10-15)           |                               |                               |
+|               |                               |                               |                               |                               |
 +---------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+               
