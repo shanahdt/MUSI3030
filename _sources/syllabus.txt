@@ -96,21 +96,21 @@ Grading and Class Activities
 ===============================
 
 +---------------------------------------+-------------------+
-| Attendance and Participation			|	20%	    		|			
+| Attendance and Participation		|	20%	    |			
 +---------------------------------------+-------------------+
-| Weekly Question Sheets				|	10%	    		|
+| Weekly Question Sheets		|	10%	    |
 +---------------------------------------+-------------------+
-| Biweekly Listening Comparisons		|	10%	    		|
+| Biweekly Listening Comparisons	|	10%	    |
 +---------------------------------------+-------------------+
-| Quiz 1								|	15%	    		|
+| Quiz 1				|	15%	    |
 +---------------------------------------+-------------------+
-| Quiz 2								| 	15%	    		|
+| Quiz 2				| 	15%	    |
 +---------------------------------------+-------------------+
-| In-Class Presentation					|	5%	    		|
+| In-Class Presentation			|	5%	    |
 +---------------------------------------+-------------------+
-| Final Paper Outline and Bibliography	|	5%	    		|
+| Final Paper Outline and Bibliography	|	5%	    |
 +---------------------------------------+-------------------+
-| Final Paper							|	5%	    		|
+| Final Paper				|	5%	    |
 +---------------------------------------+-------------------+
 
 Attendance and Participation
