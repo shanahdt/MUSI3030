@@ -452,8 +452,8 @@ Lecture and Reading Schedule
 Honor
 =======
 I trust every student in this course to comply with all of the provisions of the UVA honor system. 
-I will ask that you pledge and sign the two examinations and three papers.  
-Your signature on the exams affirms you have not received nor given aid while 
+I will ask that you pledge and sign all assignments and quizzes.  
+Your signature on the these affirms you have not received nor given aid while 
 taking your exams, nor accessed any notes, study outlines, old exams, answer keys, 
 or books  while taking an exam and that you have not obtained any answers from another 
 student's exam.  Your signature on the papers affirms that they represent your original 
