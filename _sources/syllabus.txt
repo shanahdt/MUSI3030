@@ -135,7 +135,7 @@ two words per answer will suffice. Please submit these in **hard copy, pledged.*
 Biweekly Listening Comparisons
 ================================
 
-Every other Thursday you will be asked to write 1-2 pages 
+Every other Week you will be asked to write 1-2 pages 
 (about 500 words, double-spaced in 12-point font, with page numbers) 
 in which you compare two or three similar pieces assigned for that day. 
 I will provide an example of such a comparison as a model for your own essays. 
@@ -165,7 +165,7 @@ In-Class Presentation
 ====================== 
 
 You’ll pair up with another student to orally present your 
-Listening Comparison on a Thursday during the semester. 
+Listening Comparison at some point during the semester. 
 Since you'll be presenting together, you may submit either 
 one written comparison for the two of you or two separate comparisons. 
 We will be assigning days to presenters on the second day of class 
@@ -183,6 +183,19 @@ to the same Comparison Group is likely to be especially lively
 contributors to the discussion, since they'll just have 
 completed the same exercise.
 
+
+Recommendation for Listening 
+---------------------------------
+
+The ability to listen to a piece of music *actively* is one of the most 
+important skills one can acquire. It is important to listen to each piece multiple times. 
+Try not to become distracted, and listen in a quiet environment. 
+If you wear headphones, try to use ones that properly convey the full range 
+of sounds  (earbuds are horrible at this). If you use speakers, 
+make sure you're listening on something better than the built-in speakers 
+on a computer (even ~40-$50 computer speakers can provide a decent sound). 
+Always follow along with a score or libretto (when applicable). 
+
 Final Paper
 ============= 
 
@@ -198,18 +211,6 @@ Be succinct in your outline and judicious in your choice of sources
 for your bibliography. Since research methods and materials are specific 
 to the topic you choose, we will strategize about them 
 during our individual meetings in early November.
-
-Recommendation for Listening 
-==============================
-
-The ability to listen to a piece of music *actively* is one of the most 
-important skills one can acquire. It is important to listen to each piece multiple times. 
-Try not to become distracted, and listen in a quiet environment. 
-If you wear headphones, try to use ones that properly convey the full range 
-of sounds  (earbuds are horrible at this). If you use speakers, 
-make sure you're listening on something better than the built-in speakers 
-on a computer (even ~40-$50 computer speakers can provide a decent sound). 
-Always follow along with a score or libretto (when applicable). 
 
 
 Policy on Late Assignments
