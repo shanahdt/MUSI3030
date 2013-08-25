@@ -95,24 +95,24 @@ is mutually acceptable for more lengthy discussions.
 
 Grading and Class Activities
 ===============================
-|
-+---------------------------------------+-------------------+
-| Attendance and Participation		|	20%	    |			
-+---------------------------------------+-------------------+
-| Weekly Question Sheets		|	10%	    |
-+---------------------------------------+-------------------+
-| Biweekly Listening Comparisons	|	10%	    |
-+---------------------------------------+-------------------+
-| Quiz 1				|	15%	    |
-+---------------------------------------+-------------------+
-| Quiz 2				| 	15%	    |
-+---------------------------------------+-------------------+
-| In-Class Presentation			|	5%	    |
-+---------------------------------------+-------------------+
-| Final Paper Outline and Bibliography	|	5%	    |
-+---------------------------------------+-------------------+
-| Final Paper				|	5%	    |
-+---------------------------------------+-------------------+
+
++---------------------------------------+-----+
+| Attendance and Participation		| 20% |			
++---------------------------------------+-----+
+| Weekly Question Sheets		| 10% |
++---------------------------------------+-----+
+| Biweekly Listening Comparisons        | 10% |
++---------------------------------------+-----+
+| Quiz 1				| 15% |
++---------------------------------------+-----+
+| Quiz 2				| 15% |
++---------------------------------------+-----+
+| In-Class Presentation			| 5%  |
++---------------------------------------+-----+
+| Final Paper Outline and Bibliography	| 5%  |
++---------------------------------------+-----+
+| Final Paper				| 5%  |
++---------------------------------------+-----+
 
 Attendance and Participation
 =============================
@@ -127,7 +127,7 @@ To earn maximum points for class discussion, try to contribute regularly and tho
 Weekly Question Sheets
 ========================
 
-There will be questions on the readings due **every Tuesday**. 
+There will be questions on the readings due **every week**. 
 Answer these questions as succinctly as possible--usually one or 
 two words per answer will suffice. Please submit these in **hard copy, pledged.** 
 (See *Honor* section below).
