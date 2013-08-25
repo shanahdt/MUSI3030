@@ -111,7 +111,7 @@ Grading and Class Activities
 +---------------------------------------+-----+
 | Final Paper Outline and Bibliography	| 5%  |
 +---------------------------------------+-----+
-| Final Paper				| 5%  |
+| Final Paper				| 20% |
 +---------------------------------------+-----+
 
 Attendance and Participation
