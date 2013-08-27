@@ -8,5 +8,5 @@ Question Sheet and Listening 1
 5. According to Taruskin, which of Beethoven’s works “cast the longest shadow over the rest of the nineteenth century”?
 
 
-Listen to Beethoven's *Symphony No.3* ("Eroica). It can
+Listen to Beethoven's *Symphony No.3* ("Eroica"). It can
 be streamed from the UVa Naxos Subscription `here <http://virginia.naxosmusiclibrary.com.proxy.its.virginia.edu/catalogue/item.asp?cid=LSO0580>`_. (Note that the link requires a Netbadge login).
