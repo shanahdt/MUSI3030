@@ -1,10 +1,6 @@
-
+A Couple of Approaches to Music History
 ==================================================
 
-Many approaches to constructing a narrative
-- The “Great Man” Theory
-- Evolutionary Approach
-- Gradual vs. Rapid Style Change - Arcs of Typicality
 
 The “Great-Man” Theory
 ---------------------------
@@ -46,9 +42,8 @@ Gradual vs. Rapid Change
 - Best explained through linguistics:
 - Gradual change occurs slowly over time. Like phonemes in languages or dialects, they slowly mutate, and shift intrinsically.
 - Rapid change is facilitated by an external event. Shakespeare coining the word “assassinate.” The creation of Esperanto, or the written Cherokee language.
-Now I say this to you not to explain that one approach is better than another, there is most certainly no right answer. But I do hope to inform how you experience this history class. We will kind of be going chronologically, although not entirely.
-Gradual vs. Rapid Change
-- Best explained through linguistics:
-- Gradual change occurs slowly over time. Like phonemes in languages or dialects, they slowly mutate, and shift intrinsically.
-- Rapid change is facilitated by an external event. Shakespeare coining the word “assassinate.” The creation of Esperanto, or the written Cherokee language.
+
+This is simply meant to inform how you experience this history class. 
+We will kind of be going chronologically, although not entirely.
+
 
