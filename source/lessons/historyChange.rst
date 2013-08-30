@@ -1,5 +1,5 @@
-Some Approaches to Music History
-==================================================
+The "great man theory", the evolution of music, style change, etc.
+======================================================================
 
 
 The “Great-Man” Theory
