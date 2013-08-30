@@ -28,6 +28,11 @@ Here you can find the course syllabus, assignments, lesson plans, supplemental m
 
    assignments/index
 
+.. toctree::
+   :maxdepth: 2
+
+   misc/index
+
    Indices and tables
    ==================
 
