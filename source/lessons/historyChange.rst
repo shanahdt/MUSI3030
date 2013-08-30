@@ -8,7 +8,7 @@ The “Great-Man” Theory
 - Allen writes (1939, p.85) that in the 19th century, the divine-origin story survived, 
   only now as an explanation of the origins of genius. (1939, p.85)
 
-        - G. Biani writes in 1828 of Palestrina’s “god-given genius”.
+        - Biani writes in 1828 of Palestrina’s “god-given genius”.
 
         - Historiographer Warren Allen (writes that these “were not figures 
           of speech, but ‘historical fact.’” (1939/1962, p.87)
