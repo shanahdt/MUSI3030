@@ -1,4 +1,4 @@
-A Couple of Approaches to Music History
+Some Approaches to Music History
 ==================================================
 
 
@@ -45,8 +45,8 @@ Evolutionary Approaches
 
         - “The progress of this somewhat immature period 
         shows the inevitable tendency of all things from 
-        homogeneity towards diversity and definiteness.” (
-        Parry, The Evolution of Art Music, 1893, p.169)
+        homogeneity towards diversity and definiteness.” 
+        (Parry, The Evolution of Art Music, 1893, p.169)
 
 Arcs of Typicality
 ------------------------
