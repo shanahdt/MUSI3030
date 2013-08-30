@@ -2,7 +2,7 @@ The "great man theory", the evolution of music, style change, etc.
 ======================================================================
 
 
-The “Great-Man” Theory
+The “Great Man” Theory
 ---------------------------
 
 - Allen writes (1939, p.85) that in the 19th century, the divine-origin story survived, 
@@ -23,7 +23,7 @@ The “Great-Man” Theory
                   when the muse confides in me?” -Beethoven (allegedly)
 
         - R.G Kiesewetter writes “genius alone is absolute; everything else 
-          is relative, impermanent, unessential” (1848, p.246)
+          is relative, impermanent, unessential.” (1848, p.246)
 
 
 This was a reactionary response to the histories using what 
