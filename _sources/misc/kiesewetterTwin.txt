@@ -15,5 +15,3 @@ old friend R.G. Kiesewetter. He writes:
 
 The rest of this section entitled "Twin Styles" is worth a read, as it really 
 relates quite nicely to our discussion.
-
-
