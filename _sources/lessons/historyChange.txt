@@ -43,10 +43,10 @@ Evolutionary Approaches
           by virtue of various principles which are unfolded, 
           each in its turn.” (Spencer, 1852 p. 145)
 
-        - “The progress of this somewhat immature period 
-        shows the inevitable tendency of all things from 
-        homogeneity towards diversity and definiteness.” 
-        (Parry, The Evolution of Art Music, 1893, p.169)
+                “The progress of this somewhat immature period 
+                shows the inevitable tendency of all things from 
+                homogeneity towards diversity and definiteness.” 
+                (Parry, The Evolution of Art Music, 1893, p.169)
 
 Arcs of Typicality
 ------------------------
