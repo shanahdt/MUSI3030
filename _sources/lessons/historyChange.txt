@@ -82,7 +82,8 @@ Gradual vs. Rapid Change
 
         - Rapid change is facilitated by an external event. 
           Shakespeare coining the word “assassinate.” 
-          The creation of Esperanto, or the written Cherokee language.
+          Other examples might include 
+          the creation of Esperanto, or the advent of the *written* Cherokee language.
 
 
 
