@@ -2,10 +2,10 @@ Questions Sheet #2 (Taruskin, pp.1-36)
 =============================================
 
 1. Which musical device does Taruskin say “stands in the 
-   baldest possible contrast…so the spirituality of the German romantics”?
+   baldest possible contrast…to the spirituality of the German romantics”?
 
 2. According to Taruskin, what was the celebratory-sounding 
-   overture of *Il barbiere di Siviglia* celebrating? 
+   overture of *Il barbiere di Siviglia* actually celebrating? 
 
 3. What about Rossini’s compositional style did German musicians find infuriating?
 
