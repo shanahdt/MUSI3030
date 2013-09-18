@@ -265,7 +265,7 @@ Lecture and Reading Schedule
 |       |                       |                                                                       |
 |       |                       | - "Gretchen am Spinnrade" (song)                                      |
 |       |                       | - "Erlkonig"(song)                                                    |
-|       |                       | - *String Quartet in C major*                                         |
+|       |                       | - *String Quintet in C major*                                         |
 |       |                       |                                                                       |        
 +-------+-----------------------+-----------------------------------------------------------------------+
 |4.T    | Schubert,             | Listen comparatively to music settings of Goethe's "Erlkonig"         |
