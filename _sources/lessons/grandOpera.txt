@@ -5,7 +5,6 @@ Grand Opera
 Defining Grand Opera
 ============================
 
-.. class:: incremental
 
 - Very broad term
 
@@ -26,7 +25,6 @@ and choral voices in concert and (normally) division into five acts..."
 Defining Grand Opera
 ============================
 
-.. class:: incremental
 
 - "nothing exceeds the luxury of the grand opera, which has now become a paradise for the hard of hearing." -Heinrich Heine
 
@@ -75,7 +73,6 @@ Grand Opera in Paris
 ========================
 
 
-.. class:: incremental
 
 - The middle of the nineteenth century in Paris created an "operatic microclimate that had never occurred before and allowed *grand opéra to emerge.*" (Parker and Abbate, 2012)
 
@@ -89,7 +86,6 @@ Grand Opera in Paris
 Grand Opera in Paris
 ========================
 
-.. class:: incremental
 
 This money went to create an event in which the scenery, 
 the orchestral splendor, and the vocal virtuosity
@@ -114,7 +110,6 @@ accomplishments." (cited in Abbate and Parker 2012; p.264)
 Financial Support
 ========================
 
-.. class:: incremental
 
 - Legal foundations for the Opera were laid down by Napoleon.
 
@@ -124,7 +119,6 @@ Financial Support
 Financial Support
 ========================
 
-.. class:: incremental
 
 - Regulations defined what type of genre and entertainment were permitted at each institution.
 
@@ -134,7 +128,6 @@ Financial Support
 Restoration (1815-1830)
 ============================
 
-.. class:: incremental
 
 - Under the Restoration, the opera's budget was increased about 40% (1.2 million francs to 1.78 million francs)
 
@@ -170,7 +163,6 @@ written by Meyerbeer.
 Giacomo Meyerbeer (1791-1864)
 ==================================
 
-.. class:: incremental
 
 - Born in Tasdorf, near Berlin.
 
@@ -207,7 +199,6 @@ canto* with Beethovenian symphonism."
 *Robert le Diable* (1831) Synopsis (Act 1)
 ================================================
 
-.. class:: incremental
 
 - Robert is a knight about to enter a tournament to win Princess Isabelle's hand in marriage.
 
@@ -234,7 +225,6 @@ fragment and a visual or verbal manifestation." (Abbate and Parker, 2012, p.273)
 ================================================ 
 
 
-.. class:: incremental
 
 - After hearing this, Robert sentences Raimbaut to death, but backs down when he finds out that Raimbaut is engaged (and later finds out that it's to his half-sister).
 
@@ -248,7 +238,6 @@ fragment and a visual or verbal manifestation." (Abbate and Parker, 2012, p.273)
 ================================================
 
 
-.. class:: incremental
 
 - Robert is given a new suit of armor by the princess (who loves him), and is preparing for the fight, but:
 
@@ -258,7 +247,6 @@ fragment and a visual or verbal manifestation." (Abbate and Parker, 2012, p.273)
 *Robert le Diable* (1831) Synopsis (Act 3)
 ================================================
 
-.. class:: incremental
 
 - In the countryside, Bertram reveals that Robert is his son.
 
@@ -267,7 +255,6 @@ fragment and a visual or verbal manifestation." (Abbate and Parker, 2012, p.273)
 *Robert le Diable* (1831) Synopsis (Act 3)
 ================================================
 
-.. class:: incremental
 
 - During all of this, Alice learns that if Bertram can't get Robert to sign away his soul by midnight, he will lose him forever.
 
@@ -290,7 +277,6 @@ dancing dead nuns this was clearly just as much an opera to see as to hear...mad
 *Robert le Diable* (1831) Synopsis (Act 4)
 ================================================
 
-.. class:: incremental
 
 - In the palace, Isabelle is about to marry someone else.
 
@@ -303,7 +289,6 @@ dancing dead nuns this was clearly just as much an opera to see as to hear...mad
 *Robert le Diable* (1831) Synopsis (Act 5)
 ================================================
 
-.. class:: incremental
 
 - Bertram frees Robert from the palace prison, and attempts to get him to sign the document.
 
@@ -313,13 +298,11 @@ dancing dead nuns this was clearly just as much an opera to see as to hear...mad
 
 - Midnight passes, and Bertram descends to Hell. Robert reunites with Isabelle.
 
-`Finale <http://www.youtube.com/watch?v=sjDA97mENTo/>`_.
 
 
 Impact
 ================================================
 
-.. class:: incremental
 
 - Wildly popular throughout Paris. 
 
@@ -350,7 +333,6 @@ He dedicated the collection of his complete works: "To my collaborators."
 *Les Huguenots* (1836)
 ====================================
 
-.. class:: incremental
 
 - Raoul (Protestant) and Valentine (Catholic), a pair of star-crossed lovers, are caught in the Reformations's web.
 
@@ -367,7 +349,6 @@ He dedicated the collection of his complete works: "To my collaborators."
 *Les Huguenots* Act IV
 ====================================
 
-.. class:: incremental
 
 - Valentine hides Raoul from her fanatical father.
 
@@ -395,7 +376,6 @@ In large part this is due to the general eclipse of costly grand opera, but also
 Criticism
 =======================
 
-.. class:: incremental
 
 - Wagner wrote of a "far-famed Jewish composer of our day" whose success is "proof of the ineptitude of the present musical epoch."
 
@@ -404,7 +384,6 @@ Criticism
 Criticism
 =======================
 
-.. class:: incremental
 
 - Eduard Bernsdorf responded, saying that "What [Wagner] states about Meyerbeer is in many respects true...but not because Meyerbeer is a Jew but because Meyerbeer is a man of the nineteenth century."
 
